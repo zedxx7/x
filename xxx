@@ -1,0 +1,14 @@
+[
+  {
+    "user": "cleanest",
+    "pass": "123"
+  },
+  {
+    "user": "john_doe",
+    "pass": "securePass456"
+  },
+  {
+    "user": "alice01",
+    "pass": "qwerty789"
+  }
+]
